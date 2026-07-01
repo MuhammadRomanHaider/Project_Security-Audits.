@@ -8,8 +8,5 @@ This project involves a security analysis of network traffic logs following a se
 *   **Reported Symptom:** Users experienced long page load times followed by a "destination port unreachable" error.
 *   **Analysis Tool:** `tcpdump`
 
-### Network Log Evidence (tcpdump)
-
-## Image
-
+### Network Log Evidence (tcpdump) Image:
 <img width="1561" height="771" alt="Event log" src="https://github.com/user-attachments/assets/29842592-da5a-47bb-92ae-239c3fe57cc0" />
