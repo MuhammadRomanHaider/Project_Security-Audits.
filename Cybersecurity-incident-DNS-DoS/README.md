@@ -1,7 +1,7 @@
 # Incident Report: Network Traffic Analysis (Suspected DNS DoS)
 
 ## Project Overview:
-This project involves a security analysis of network traffic logs following a service disruption. As part of a cybersecurity incident response simulation, `tcpdump` logs were analyzed to determine why users were unable to access a client website, identifying a critical failure in DNS resolution.
+This project is the google cybersecurtiy course activity which involves a security analysis of network traffic logs following a service disruption. As part of a cybersecurity incident response simulation, `tcpdump` logs were analyzed to determine why users were unable to access a client website, identifying a critical failure in DNS resolution.
 
 ## Scenario Details:
 * **Target Website:** www.yummyrecipesforme.com
